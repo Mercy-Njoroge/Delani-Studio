@@ -50,3 +50,13 @@
       #about{
         font-family: 'Times New Roman', Times, serif;
       }
+      .services{
+        text-align: center;
+        background-image: url("../images/backgrounds/s_image.jpg");
+        color: white;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        font-family: 'Copse', serif;
+        font-size: 18px;
+      }
