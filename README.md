@@ -21,15 +21,10 @@ Mercy-Njoroge
 * Submit
 # output
 * Thankyou
-## Technologies Used
-* Html
-* Javascript
-* Css
-* Bootstrap
 ## Known Bugs
-Some output are not as accurate as expected.
+
 ## Contact Information
-If you have any question or contributions, please email me at [aprilkasha42@gmail.com]
+Reach out to me @[aprilkasha42@gmail.com]
 
 ### License
 *{used MIT licence}*
