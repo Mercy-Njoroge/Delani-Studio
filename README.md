@@ -4,7 +4,7 @@ This web application shows services offered at Delani Studio,it also enables the
 ## Author
 Mercy-Njoroge
 ## Live Link
- []
+ [https://mercy-njoroge.github.io/Delani-Studio/]
 ## Setup/Installation Requirements
 * Open Terminal
 * Clone https://github.com/Mercy-Njoroge/Delani-Studio.git
