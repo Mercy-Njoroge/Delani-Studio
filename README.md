@@ -28,4 +28,4 @@ Reach out to me @[aprilkasha42@gmail.com]
 
 ### License
 *{used MIT licence}*
-Copyright (c) {2017}
+Copyright (c) {2020}
