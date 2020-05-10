@@ -83,7 +83,7 @@ $(document).ready(function(){
     });
   });
   // customer feedback
-$("button").click(function (omonge) {
+ $("button").click(function (Mercy) {
     var client = document.getElementById('nameDetail').value;
     alert(' Dear '+ client + ' Youe message is succesfully sent! ' + 'reach out to us anytime');
     Mercy-Njoroge.preventDefault();
