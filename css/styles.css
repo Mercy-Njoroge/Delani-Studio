@@ -27,5 +27,6 @@
   #mouse-click{
     padding-top : 22px;
     margin-top: 10%;
-    padding-bottom: 30px; 
+    padding-bottom: 30px;
+    animation: bounce 2s infinite; 
   }
