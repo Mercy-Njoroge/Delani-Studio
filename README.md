@@ -6,7 +6,9 @@ Mercy-Njoroge
 ## Live Link
  []
 ## Setup/Installation Requirements
-* 
+* Open Terminal
+* Clone https://github.com/Mercy-Njoroge/Delani-Studio.git
+* Open with any editor of your choice
 ## Technologies Used
 * Html
 * Javascript
