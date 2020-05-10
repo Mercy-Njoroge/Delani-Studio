@@ -1,8 +1,6 @@
 # {Delani Studio}
-#### {This web application, {1/5/2020}
-#### By **{No contributors this was a personal project}**
 ## Description
-{Most people know when their birthdays are,but some of us might not know what day of the month they were born.This Application will help us calculate the day of the week from a specific date.  }
+This web application shows services offered at Delani Studio,it also enables the user to send messages through a form
 ## Author
 Mercy-Njoroge
 ## Live Link
