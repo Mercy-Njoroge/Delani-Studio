@@ -1,2 +1,13 @@
 @import url("https://fonts.google.com/specimen/Lobster/");
 @import url("https://fonts.google.com/specimen/Indie+Flower/");
+
+.heading{
+    background-image: url('../images/backgrounds/h_img.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+    padding-top:17%; 
+    font-family: 'Gabriela', serif;
+}
