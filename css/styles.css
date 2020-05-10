@@ -78,6 +78,12 @@
       .what-we-do .headings{
         padding-bottom: 38px;
       }
+      #product, #development, #design{
+        display: none;
+        font-family: 'Copse', serif;
+        font-size: 16px;
+      }
+      
       #portfolio{
         display: flex;
         flex-wrap: wrap;
