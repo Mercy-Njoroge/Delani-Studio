@@ -14,6 +14,7 @@ Mercy-Njoroge
 * Javascript
 * Css
 * Bootstrap
+* JQuery
 ## BDD
 * Enter your name 
 * Enter your email address
